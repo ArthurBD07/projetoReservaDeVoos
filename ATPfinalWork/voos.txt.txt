@@ -1,0 +1,5 @@
+101;Miami;50
+102;Fernando de Noronha;50
+103;Paris;50
+104;Madrid;50
+105;Belo Horizonte;50
