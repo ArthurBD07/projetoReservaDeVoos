@@ -5,7 +5,7 @@ Aplicação de console em **C#** que simula um sistema de reservas de passagens 
 ## 📂 Funcionalidades
 
 - Importação de voos via arquivo `voos.txt.txt`
-- Reserva de assentos (1 a 50) por nome de passageiro
+- Reserva de assentos por nome de passageiro
 - Cancelamento de reservas
 - Consulta de assentos disponíveis
 - Relatório de ocupação por voo
